@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+
+#define ll long long int
+#define vi vector<int>
+#define vll vector<ll>
+#define vvi vector < vi >
+#define pii pair<int,int>
+#define pll pair<long long, long long>
+#define mod 1000000007
+#define inf 0x7fffffff;
+#define all(c) c.begin(),c.end()
+#define mp(x,y) make_pair(x,y) 
+#define mem(a,val) memset(a,val,sizeof(a))
+#define f first
+#define s second
+#define pb push_back
+
+using namespace std;
+
+
+int main()
+{
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr);
+
+	
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>basic</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
